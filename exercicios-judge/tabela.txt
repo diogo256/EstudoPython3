@@ -1,0 +1,5 @@
+
+1           OsBotões    3    1    6    0    6
+2        ClubeDoJuca    3    1    2    0    2
+3       LeoNoFutebol    3    1    2    0    2
+4           Cacareco    0    3    0   10  -10
