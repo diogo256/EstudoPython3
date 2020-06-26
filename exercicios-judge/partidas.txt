@@ -1,8 +1,0 @@
-4 3
-OsBotões
-LeoNoFutebol
-Cacareco
-ClubeDoJuca
-OsBotões 6 x 0 Cacareco
-Cacareco 0 x 2 ClubeDoJuca
-Cacareco 0 x 2 LeoNoFutebol
